@@ -1,0 +1,3 @@
+// JavaScript...
+// Placeholder for future script execution
+// Currently, no client-side interactions are required.
